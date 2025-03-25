@@ -1,2 +1,6 @@
+#ignore all jpeg files 
 *.jpeg
+#ignore receipts folder 
 receipts/plots/
+#ignore all csv files, regardless of their position in directory tree
+**/*.csv
